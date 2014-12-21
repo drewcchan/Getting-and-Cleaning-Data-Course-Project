@@ -6,7 +6,7 @@ The original data can be obtained from the following file: https://d396qusza40or
 
 The features_info.txt file in the original dataset gives a greater description of the meaning of the variables.
 
-The tidy dataset is the tidy_data table obtained after running run_analysis.R. The tidy dataset is a transformation of the original dataset that combines the test and train data, selects for only the mean and standard deviation measurements, calculates the average of the selected columns and labels the columns and rows. Each transformation can be seen in the README.md document. 
+The tidy dataset is the TidyData table obtained after running run_analysis.R. The tidy dataset is a transformation of the original dataset that combines the test and train data, selects for only the mean and standard deviation measurements, calculates the average of the selected columns and labels the columns and rows. Each transformation can be seen in the README.md document. 
 
 Variables
 ---------
